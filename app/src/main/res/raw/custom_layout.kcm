@@ -1,0 +1,8 @@
+type OVERLAY
+
+map key 119 YOUTUBE
+map key 120 NETFLIX
+map key 121 BUTTON_3
+map key 122 BUTTON_4
+map key 150 SETTINGS
+map key 141 TV
