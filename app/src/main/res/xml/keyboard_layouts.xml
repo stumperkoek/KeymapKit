@@ -808,4 +808,9 @@
         android:keyboardLayout="@raw/kcm_wolof"
         android:label="@string/layout_wolof" />
 
+    <keyboard-layout
+        android:name="custom_layout"
+        android:label="Chromecast Remote Fix"
+        android:keyboardLayout="@raw/custom_layout" />
+
 </keyboard-layouts>
